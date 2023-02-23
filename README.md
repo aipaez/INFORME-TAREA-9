@@ -1,6 +1,6 @@
 # INFORME-TAREA-9
 
-Nombre: Adrian Paez
+Nombre: Adrian Ismael Paez Tobar
 
 **OBJETIVOS**
 
